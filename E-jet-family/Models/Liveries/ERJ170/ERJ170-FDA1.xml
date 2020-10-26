@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">FDA01-Red</name>
+            <texture>/../Models/Liveries/ERJ170/ERJ170-FDA1.png</texture>
+        </livery>
+    </model>
+</sim>
+</PropertyList>
